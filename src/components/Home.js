@@ -22,7 +22,7 @@ function Home() {
       <div className="p-grid">
        <div className="p-col-12">
                 <div className="card">
-                    <h5>DMS Form</h5>
+                    <h5>DMS Forms</h5>
                     <div className="p-fluid p-formgrid p-grid">
                         {/* <div className="p-field p-col-12 p-md-6">
                             <label htmlFor="DMSAppid">DMSAppid</label>

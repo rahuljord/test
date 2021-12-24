@@ -1,0 +1,26 @@
+/* Add your customizations of theme here */
+.p-breadcrumb {
+	border-radius: 0px;
+}
+#topbar-logo {
+	height: 45px;
+}
+
+@media (min-width: 960px){
+	.layout-topbar-heading {
+		position: relative;
+		vertical-align: middle;
+		margin-left: 155px;
+		font-size: 1.5rem;
+	}
+}
+
+@media (max-width: 959px) {
+	.layout-topbar-heading {
+		display: none !important;opacity:0;
+	}
+	.layout-main{
+		padding-top:70px !important;
+	}
+}
+

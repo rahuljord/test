@@ -1,0 +1,19 @@
+$primaryColor: #0f97c7 !default;
+$primaryLightColor: scale-color($primaryColor, $lightness: 60%) !default;
+$primaryDarkColor: scale-color($primaryColor, $lightness: -10%) !default;
+$primaryDarkerColor: scale-color($primaryColor, $lightness: -20%) !default;
+$primaryTextColor: #ffffff !default;
+
+$highlightBg: $primaryColor;
+$highlightTextColor: $primaryTextColor;
+
+
+$breadcrumbBg:#252529 !default;
+$breadcrumbBorder:#252529 !default;
+$breadcrumbItemTextColor:#8b8b90 !default;
+$breadcrumbItemIconColor:#a6a6a6 !default;
+$breadcrumbLastItemTextColor:#ebebef !default;
+$breadcrumbLastItemIconColor:#ebebef !default;
+$breadcrumbSeparatorColor:#424247 !default;
+
+@import '../../sass/theme/_theme';

@@ -891,4 +891,30 @@ pre[class*="language-"] {
         }
     }
 }
+.layout-wrapper .layout-topbar .topbar-menu > li > a > img, 
+.layout-wrapper .layout-topbar .topbar-menu > li > .p-link > img{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    border: 2px solid gray;
+}
+.p-4{
+    padding: 1.5rem;
+}
+// .p-datatable .p-datatable-thead > tr > th{
+//     min-width: min-content;
+// }
+#settings_id .p-datatable .p-datatable-thead > tr > th:first-child{
+// background-color: rebeccapurple;
+width: 320px;
+}
+#settings_id .p-datatable .p-datatable-thead > tr > th:nth-child(5){
+    width: 70px;
+}
+#settings_id .p-datatable .p-datatable-thead > tr > th:nth-child(6){
+    width: 120px;
+}
+// .table-demo .p-datatable.p-datatable-customers .p-datatable-tbody > tr > td:last-child{
+//     background-color: #607D8B;
 
+// }

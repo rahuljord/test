@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+        "code": "JORD",
+      "name": 1
+    },
+    {
+        "code": "PROXA",
+        "name": 2
+    },
+    {
+        "code": "GEN",
+        "name": 3
+    }
+  ]
+}

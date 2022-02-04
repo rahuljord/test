@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+         "dmsappid" : 1,
+         "DMSAppName" :  "HR DMS APPLCIATION",
+         "DMSAppDivisionID": 1,
+         "CreatedByUserID": 1,
+         "CreationDate" : "22-Dec-2021",
+         "LastupdatedByUserID": 1,
+         "LastupdatedDate":  "22-Dec-2022",
+         "IsActive": 1,
+         "SuiteID": 1
+        },
+        {
+            "dmsappid" : 2,
+            "DMSAppName" :  "QA DMS APPLCIATION",
+            "DMSAppDivisionID": 2,
+            "CreatedByUserID": 1,
+            "CreationDate" : "22-Dec-2021",
+            "LastupdatedByUserID": 1,
+            "LastupdatedDate":  "22-Dec-2022",
+            "IsActive": 1,
+            "SuiteID": 1
+           },
+           {
+            "dmsappid" : 3,
+            "DMSAppName" :  "IT DMS APPLCIATION",
+            "DMSAppDivisionID": 3,
+            "CreatedByUserID": 1,
+            "CreationDate" : "22-Dec-2021",
+            "LastupdatedByUserID": 1,
+            "LastupdatedDate":  "22-Dec-2022",
+            "IsActive": 1,
+            "SuiteID": 1
+           }
+     
+       ]
+}

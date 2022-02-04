@@ -34,10 +34,10 @@ const AppTopbar = (props) => {
             <ul className="topbar-menu">            
                 <li className={classNames('user-profile', { 'active-topmenuitem fadeInDown': props.activeTopbarItem === 'profile' })}>
                     {!props.inlineUser && <button type="button" className="p-link" onClick={(e) => onTopbarItemClick(e, 'profile')}>
-                        <img src="assets/layout/images/pradeep.JPG" alt="roma-layout" />
+                        <img src="assets/layout/images/rahul_adupa.jpg" alt="roma-layout" />
                         <div className="layout-profile-userinfo">
-                            <span className="layout-profile-name">Pradeep Lomte</span>
-                            <span className="layout-profile-role">System Developer</span>
+                            <span className="layout-profile-name">Rahul Adupa</span>
+                            <span className="layout-profile-role">ReactJS Developer</span>
                         </div>
                     </button>}
 

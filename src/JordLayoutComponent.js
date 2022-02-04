@@ -50,7 +50,7 @@ const JordLayoutControl = (props) => {
     const pagePathArr = pagePath.split('/').slice(1);
 
     const breadcrumbItems2 = pagePathArr.map((ppath, index) => {
-        console.log(index);
+        // console.log(index);
         if (pagePathArr.length > 1) {
             const notLast = index < pagePathArr.length - 1;
             const last = index = pagePathArr.length - 1;

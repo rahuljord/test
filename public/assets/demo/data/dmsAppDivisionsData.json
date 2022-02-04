@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": 1,
+            "code": "HR"
+        },
+        {
+            "name": 2,
+            "code": "QA"
+        },
+        {
+            "name": 3,
+            "code": "IT"
+        }
+    ]
+}
